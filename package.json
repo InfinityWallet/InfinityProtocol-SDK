@@ -1,7 +1,7 @@
 {
   "name": "@infinitywallet/InfinityProtocol-SDK",
   "license": "MIT",
-  "version": "1.0.14",
+  "version": "1.0.0",
   "description": "An SDK for building applications on top of the Infinity Protocol.",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
@@ -26,7 +26,7 @@
     "prepublishOnly": "tsdx build"
   },
   "dependencies": {
-    "@infinitywallet/infinity-core": "^0.1.0",
+    "@infinitywallet/infinity-core": "^1.0.1",
     "big.js": "^5.2.2",
     "decimal.js-light": "^2.5.0",
     "jsbi": "^3.1.1",

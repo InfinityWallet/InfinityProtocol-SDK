@@ -16,7 +16,7 @@ git clone https://github.com/InfinityWallet/InfinityProtocol-SDK.git
 Move into the InfinityProtocol-SDK working directory
 
 ```sh
-cd Infinity-sdk/
+cd InfinityProtocol-SDK/
 ```
 
 Install dependencies
